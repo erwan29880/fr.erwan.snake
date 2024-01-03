@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"calculs"},{"l":"config"},{"l":"enums"},{"l":"front"}];updateSearchResults();

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"calculs","l":"Case"},{"p":"config","l":"Config"},{"p":"calculs","l":"Coords"},{"p":"enums","l":"Direction"},{"p":"front","l":"Fenetre"},{"p":"calculs","l":"Grenouille"},{"p":"front","l":"Fenetre.Pan"},{"p":"calculs","l":"Serpent"}];updateSearchResults();
